@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "My Assistant",
+    "slug": "my-assistant",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": ["expo-notifications"],
+    "backgroundColor": "#0E1114",
+    "android": {
+      "package": "com.myassistant.app",
+      "softwareKeyboardLayoutMode": "resize"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "assistant-app",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "test": "node --test \"test/*.test.js\""
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "latest",
+    "expo": "latest",
+    "expo-clipboard": "latest",
+    "expo-notifications": "latest",
+    "expo-secure-store": "latest",
+    "expo-status-bar": "latest",
+    "react": "latest",
+    "react-native": "latest"
+  }
+}
